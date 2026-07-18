@@ -274,21 +274,48 @@ nav div ul a {
   background: #fff;
   transition: 0.25s;
 }
-
 .faq-item:hover {
   border-color: #2563eb;
   box-shadow: 0 10px 25px rgba(37, 99, 235, 0.08);
 }
-
 .faq-item h3 {
   font-size: 24px;
   font-weight: 700;
   color: #111827;
   margin-bottom: 12px;
 }
-
 .faq-item p {
   font-size: 17px;
-  color: #6b7280;
-  line-height: 1.7;
+  color: #575757;
+ 
+}
+.footer{
+    background:#0F1B2D;
+    padding:40px 32px;
+}
+.footer-c1{
+    max-width:1320px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.footer-p{
+    color:#FFFFFF;
+    font-size:18px;
+    font-weight:400;
+    opacity: 40%;
+}
+.footer-links{
+    display:flex;
+    gap:32px;
+}
+.footer-links a{
+    text-decoration:none;
+    color:#FFFFFF;
+    font-size:18px;
+    opacity: 40%;
+}
+.footer-links a:hover{
+    color:#888888;
 }

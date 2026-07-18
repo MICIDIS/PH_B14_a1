@@ -1,0 +1,1 @@
+my project instructor want me to generate something relevant in this section(ss)...generate html and css part separately just for this part keeping the overall website theme and spacing same

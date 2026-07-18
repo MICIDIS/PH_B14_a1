@@ -287,35 +287,34 @@ nav div ul a {
 .faq-item p {
   font-size: 17px;
   color: #575757;
- 
 }
-.footer{
-    background:#0F1B2D;
-    padding:40px 32px;
+.footer {
+  background: #0f1b2d;
+  padding: 40px 32px;
 }
-.footer-c1{
-    max-width:1320px;
-    margin:auto;
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
+.footer-c1 {
+  max-width: 1320px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.footer-p{
-    color:#FFFFFF;
-    font-size:18px;
-    font-weight:400;
-    opacity: 40%;
+.footer-p {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 40%;
 }
-.footer-links{
-    display:flex;
-    gap:32px;
+.footer-links {
+  display: flex;
+  gap: 32px;
 }
-.footer-links a{
-    text-decoration:none;
-    color:#FFFFFF;
-    font-size:18px;
-    opacity: 40%;
+.footer-links a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  opacity: 40%;
 }
-.footer-links a:hover{
-    color:#888888;
+.footer-links a:hover {
+  color: #888888;
 }
